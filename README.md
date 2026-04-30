@@ -68,6 +68,12 @@ The Lost & Found Community Platform (Lost No More) is a web application that hel
 1. **Clone this repository**  
    git clone https://github.com/Softeng310/Lost_Found_App.git
 
+2. **Firebase Setup**
+   For security reasons, the Firebase API key is not included in this repository.
+   Create a `.env` file inside the `frontend` folder:
+   ```env
+   REACT_APP_FIREBASE_API_KEY=your_firebase_api_key_here
+
 ---
 
 ## ▶️ Running the Application
